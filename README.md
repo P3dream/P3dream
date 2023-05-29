@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Pedro Pizzi.
 - 👀 I’m interested in coding, games, developing new things and learn how things work! 
-- 🌱 I’m currently learning C#, Git, Github, SQLserver, API Rest, Javascript, HTML and Bootstrap.
+- 🌱 I’m currently learning C#, Git, Github, SQL, API Rest, Javascript, Java, HTML and Bootstrap.
 - 💞️ I’m looking to collaborate on my own development.
 - 📫 You can contact me at: pedropizzi23@Hotmail.com  
 
