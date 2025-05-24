@@ -1,6 +1,6 @@
 # Welcome to my GitHub! 👋
 
-I'm **Pedro Pizzi**, a passionate and results-driven software developer with **4 years of professional experience**, **3 of them coding** solutions across industries like **networking, compliance, and aerospace**.
+I'm **Pedro Pizzi**, a passionate and results-driven software developer with **4 years of professional experience**, **3 of them coding** solutions across industries like **networks, compliance, and aerospace**.
 
 ---
 
