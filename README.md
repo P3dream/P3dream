@@ -10,6 +10,7 @@ I'm **Pedro Pizzi**, a passionate and results-driven software developer with **4
 - 🌍 **Languages**: Fluent in Portuguese, English, Spanish, and French.
 - 📚 **Tech Stack**: TypeScript, NestJS, Python, PostgreSQL, Docker, CI/CD, Git, and more.
 - 🚀 **Goal**: Build global tools that make life easier — and safer — for people worldwide.
+- 🌐 **Portfolio**: [www.pedropizzi.com](https://www.pedropizzi.com)
 
 ---
 
@@ -27,6 +28,7 @@ You can reach me here:
 - 📧 Email: pedropizzi23@hotmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedrocarneiropizzi/)
 - 📸 [Instagram](https://www.instagram.com/pedropizzi/)
+- 🌐 [Portfolio](https://www.pedropizzi.com)
 
 ---
 
@@ -46,4 +48,7 @@ You can reach me here:
   <a href="https://www.linkedin.com/in/pedrocarneiropizzi/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
+  <a href="https://www.pedropizzi.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank">
+  </a>
 </div>
