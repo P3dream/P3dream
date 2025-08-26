@@ -9,7 +9,7 @@ I'm **Pedro Pizzi**, a passionate and results-driven software developer with **5
 - 💻 **Current focus**: Clean, secure, and scalable back-end solutions.
 - 🌍 **Languages**: Fluent in Portuguese, English, Spanish, and French.
 - 📚 **Tech Stack**: TypeScript, NestJS, Python, PostgreSQL, Docker, CI/CD, Git, and more.
-- 🚀 **Goal**: Build global tools that make life easier — and safer — for people worldwide.
+- 🚀 **Goal**: Build global tools that make life easier, and safer, for people worldwide.
 - 🌐 **Portfolio**: [www.pedropizzi.com](https://www.pedropizzi.com)
 
 ---
