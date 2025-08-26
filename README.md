@@ -18,7 +18,7 @@ I'm **Pedro Pizzi**, a passionate and results-driven software developer with **5
 
 - 🟠 **Orange Business Services**: Collaborated remotely with an American team in the **networking sector**.
 - 🧩 **Advice Compliance Solutions**: Contributed to several **compliance-related systems**.
-- ✈️ **GE Aerospace**: Rewrote a legacy backend for a system with **1,000+ users**, focusing on clean code, performance, and security. Today, the tool is used **globally**.
+- ✈️ **GE Aerospace**: Rewrote a legacy backend for a system with **1,300+ users**, focusing on clean code, performance, security and observability. Today, the tool is used **globally**.
 
 ---
 
