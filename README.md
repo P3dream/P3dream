@@ -1,34 +1,45 @@
 # Welcome to my GitHub! 👋
 
-I'm **Pedro Pizzi**, a passionate and results-driven software developer with **5 years of professional experience**, **4 of them coding** solutions across industries like **networks, compliance, and aerospace**.
+I'm **Pedro Pizzi**, a software engineer focused on building **scalable systems and applied AI solutions**, with experience across **networking, compliance, and aerospace**.
+
+I enjoy working on problems that combine **systems, security, and machine learning**.
 
 ---
 
 ### 💼 About Me
 
-- 💻 **Current focus**: Clean, secure, and scalable back-end solutions.
-- 🌍 **Languages**: Fluent in Portuguese, English, Spanish, and French.
-- 📚 **Tech Stack**: TypeScript, NestJS, Python, PostgreSQL, Docker, CI/CD, Git, and more.
-- 🚀 **Goal**: Build global tools that make life easier, and safer, for people worldwide.
-- 🌐 **Portfolio**: [www.pedropizzi.com](https://www.pedropizzi.com)
+* 💻 Focus: Back-end systems, distributed architectures, and AI-powered solutions
+* 🧠 Interests: LLMs, anomaly detection, and intelligent systems
+* 🌍 Languages: Portuguese, English, Spanish, French
+* 🛠️ Stack: TypeScript, NestJS, Python, PostgreSQL, Docker, CI/CD
+* 🚀 Goal: Build global products that are **robust, intelligent, and impactful**
+
+---
+
+### 🚀 Featured Work
+
+#### 🧠 GenGuardian — AI for DDoS Detection
+
+* Fine-tuned **LLaMA-based model** for network traffic classification
+* Optimized with **QLoRA (4-bit quantization)** for low-resource environments
+* Achieved **~98% accuracy** on real-world dataset
+* Combines **LLMs + cybersecurity + anomaly detection**
 
 ---
 
 ### 🧠 Professional Highlights
 
-- 🟠 **Orange Business Services**: Collaborated remotely with an American team in the **networking sector**.
-- 🧩 **Advice Compliance Solutions**: Contributed to several **compliance-related systems**.
-- ✈️ **GE Aerospace**: Rewrote a legacy backend for a system with **1,300+ users**, focusing on clean code, performance, security and observability. Today, the tool is used **globally**.
+* 🟠 **Orange Business Services** — Worked with international teams in networking systems
+* 🧩 **Advice Compliance Solutions** — Built compliance-focused software
+* ✈️ **GE Aerospace** — Rebuilt a legacy backend used by **1,300+ users globally**, improving performance, maintainability, and observability
 
 ---
 
 ### 📫 Contact
 
-You can reach me here:
-- 📧 Email: pedropizzi23@hotmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/pedrocarneiropizzi/)
-- 📸 [Instagram](https://www.instagram.com/pedropizzi/)
-- 🌐 [Portfolio](https://www.pedropizzi.com)
+* 📧 Email: [pedropizzi23@hotmail.com](mailto:pedropizzi23@hotmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/pedrocarneiropizzi/
+* 🌐 Portfolio: https://www.pedropizzi.com
 
 ---
 
