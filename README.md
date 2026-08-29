@@ -21,7 +21,7 @@ I enjoy working on problems that combine **software engineering, distributed sys
 
 ### 🚀 Featured Work
 
-#### 🧠 GenGuardian — AI for DDoS Detection
+#### 🧠 GenGuardian - AI for DDoS Detection
 
 * Fine-tuned **LLaMA-based model** for network traffic classification
 * Optimized with **QLoRA (4-bit quantization)** for low-resource environments
