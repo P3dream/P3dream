@@ -43,15 +43,6 @@ I enjoy working on problems that combine **systems, security, and machine learni
 
 ---
 
-<div align="center">
-  <a href="https://github.com/P3dream">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=P3dream&show_icons=true&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P3dream&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
-<br>
-
 <div align="center"> 
   <a href="https://www.instagram.com/pedropizzi/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
