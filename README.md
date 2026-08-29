@@ -32,10 +32,10 @@ I enjoy working on problems that combine **software engineering, distributed sys
 
 ### 🏢 Professional Experience
 
-* 🏦 **BTG Pactual** — Develop financial and regulatory reporting systems using **React, .NET/C#, SQL, and AWS**, working with distributed data-processing workflows handling **millions of financial records daily**
-* ✈️ **GE Aerospace** — Rebuilt a backend serving **1,300+ users globally**, eliminating approximately **800 security vulnerabilities**
-* 🧩 **Advice Compliance Solutions** — Developed compliance-focused software using **C#/.NET and REST APIs**
-* 🟠 **Orange Business Services** — Worked with international teams on **networking systems and services**
+* 🏦 **BTG Pactual** - Develop financial and regulatory reporting systems using **React, .NET/C#, SQL, and AWS**, working with distributed data-processing workflows handling **millions of financial records daily**
+* ✈️ **GE Aerospace** - Rebuilt a backend serving **1,300+ users globally**, eliminating approximately **800 security vulnerabilities**
+* 🧩 **Advice Compliance Solutions** - Developed compliance-focused software using **C#/.NET and REST APIs**
+* 🟠 **Orange Business Services** - Worked with international teams on **networking systems and services**
 
 ---
 
